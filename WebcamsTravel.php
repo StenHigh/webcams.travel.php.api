@@ -445,6 +445,6 @@ class WebcamsTravel
 }
 
 // Example used
-$a      = new WebcamsTravel( '12b46ed7e6931b68772374abfe658a56' );
+/*$a      = new WebcamsTravel( '12b46ed7e6931b68772374abfe658a56' );
 $result = $a->getDetails( '1010218306' );
-var_dump( $result );
+var_dump( $result );*/
